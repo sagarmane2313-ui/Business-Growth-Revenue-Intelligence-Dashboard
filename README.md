@@ -105,23 +105,12 @@ Data Cleaning & Relationships
 
 CSV/Excel Dataset
 
-📥 How to Use the Dashboard
 
-Clone this repository:
-
-[github.com/your-username/your-repository-name.git](https://github.com/Vinaychaudhari41/Business_Growth_and_Revenue_Intelligence_Dashboard/tree/main)
-
-
-Open the .pbix file using Power BI Desktop.
-
-Load the dataset (if required, set correct file path).
-
-Interact with slicers and visuals to explore insights.
 
 🖼️ Dashboard Preview
 
-![Dashboard Preview](<img width="1355" height="675" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/b2e2c2e1-f5e4-48fc-9379-ffc5fc1761b8" />
-)
+<img width="1355" height="675" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/2b2167af-c12e-4502-99ad-d0fd06e9c6d2" />
+
 
 🎯 Purpose of This Project
 
