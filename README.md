@@ -120,7 +120,8 @@ Interact with slicers and visuals to explore insights.
 
 🖼️ Dashboard Preview
 
-![Dashboard Preview](Screenshot/Dashboard_Preview.png)
+![Dashboard Preview](<img width="1355" height="675" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/b2e2c2e1-f5e4-48fc-9379-ffc5fc1761b8" />
+)
 
 🎯 Purpose of This Project
 
